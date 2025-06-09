@@ -1,0 +1,9 @@
+Package: deltactrl
+Title: Calculate responsiveness of each treatment relative to a control
+Version: 0.0.0.9000
+Authors@R: person(given="JK", family="Kim", email="kimjk@agronomy4future.com", role=c("aut", "cre"))
+Description: This package is designed to easily calculate the responsiveness (%) of each treatment relative to a control.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2

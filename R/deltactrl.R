@@ -22,7 +22,7 @@
 #'
 #'# upload required package
 #'if(!require(remotes)) install.packages("remotes")
-#'if (!requireNamespace("descriptivestat", quietly = TRUE)) {
+#'if (!requireNamespace("deltactrl", quietly = TRUE)) {
 #' remotes::install_github("agronomy4future/deltactrl", force= TRUE)
 #'}
 #'library(remotes)
